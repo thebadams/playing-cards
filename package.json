@@ -1,0 +1,22 @@
+{
+  "name": "playing-cards",
+  "version": "1.0.0",
+  "description": "A playing card game OOP based projecct",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebadams/playing-cards.git"
+  },
+  "author": "thebadams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thebadams/playing-cards/issues"
+  },
+  "homepage": "https://github.com/thebadams/playing-cards#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
